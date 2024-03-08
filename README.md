@@ -1,3 +1,6 @@
+# Simple Unity Day/Night Cycle 
+### with Enviroment options
+
 Day Night script adds a normal day/Night cycle with the posibility to add Elements (lights) to turn it in and off based on the cycle. 
 
 The hours can be changed on the line:
